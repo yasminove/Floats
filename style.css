@@ -1,3 +1,22 @@
 * {
   height: 41px;
 }
+code {
+   display: block;
+   text-align: center;
+   background: green;
+   color: #fff;
+}
+
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 64%;
+}
