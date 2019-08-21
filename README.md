@@ -1,1 +1,1 @@
-# Floats
+# two-column-layout
