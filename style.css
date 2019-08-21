@@ -1,11 +1,13 @@
-* {
+/* * {
   height: 41px;
-}
+} */
 code {
    display: block;
    text-align: center;
-   background: green;
+   background: #5ea7b5;
    color: #fff;
+   padding: 24px 15px;
+   border-radius: 5px;
 }
 
 header,
@@ -17,16 +19,15 @@ footer {
 
 section {
   float: left;
-  margin: 0 1.5%;
-  width: 64%;
+  width: 63%;
 }
 
 aside {
   float: right;
-  margin: 0 1.5%;
   width: 30%;
 }
 
 footer {
-  margin-top: 77px;
+  clear: both;
+  margin-bottom : 0;
 }
